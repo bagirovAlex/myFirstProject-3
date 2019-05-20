@@ -15,7 +15,7 @@ public class Main1 {
         System.out.println(table1.toString());
         System.out.println(table1);
 
-        
+
 
     }
 }
